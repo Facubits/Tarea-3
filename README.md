@@ -1,9 +1,5 @@
 # SQL -mongo
 
-Put value and _semantic meaning_ back into your queries by writing your SQL as JSON:
-
-
-
 ```javascript
 var builder = require('mongo-sql');
 
